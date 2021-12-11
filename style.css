@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.center{
+    display:flex;
+    justify-content: center;
+    padding: 40px 30px 25px 16px;
+}
+#button{
+    background-color: rgb(184, 69, 69);
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    border: none;
+    transition: transform .2s; /* Animation */
+    width: 200px;
+ 
+  
+}
+#button:hover{
+    transform: scale(1.1);
+    border: rgb(218, 90, 90);
+}
+.logo{
+    display: flex;
+    align-items: center;
+    width: 20px;
+    background-color: red;
+}
+.cardyy{
+    display: flex;
+    justify-content: center;
+    
+}
