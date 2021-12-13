@@ -2,12 +2,9 @@
 
 Github Searcher using github API
 
-#API :
+*API :*
 <pre>
-
 https://api.github.com/users/user
-
-
 </pre>
 
 *Example :*
